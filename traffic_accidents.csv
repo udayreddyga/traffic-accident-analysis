@@ -1,0 +1,301 @@
+Accident_ID,Date,Time,Location,Weather_Condition,Road_Type,Vehicle_Type,Casualties,Severity,Light_Condition,Speed_Limit,Traffic_Density
+A1,2024-01-01,8:07,CityC,Fog,Urban Road,Car,4,Fatal,Night,120,Medium
+A2,2024-01-02,22:16,CityA,Clear,Highway,Bike,2,Fatal,Street lights,60,Low
+A3,2024-01-03,15:14,CityD,Fog,Rural Road,Bike,1,Minor,Night,40,Low
+A4,2024-01-04,9:39,CityC,Fog,Urban Road,Bike,0,Fatal,Night,40,Low
+A5,2024-01-05,16:46,CityC,Rain,Urban Road,Truck,0,Fatal,Night,80,High
+A6,2024-01-06,15:43,CityD,Snow,Urban Road,Truck,3,Minor,Street lights,40,Low
+A7,2024-01-07,18:52,CityA,Fog,Urban Road,Car,4,Minor,Daylight,100,Medium
+A8,2024-01-08,13:30,CityD,Snow,Highway,Car,5,Fatal,Night,40,Medium
+A9,2024-01-09,0:35,CityA,Cloudy,Rural Road,Bus,3,Fatal,Night,120,High
+A10,2024-01-10,3:18,CityA,Fog,Highway,Bus,2,Minor,Night,60,Medium
+A11,2024-01-11,15:46,CityB,Snow,Rural Road,Truck,1,Serious,Daylight,100,High
+A12,2024-01-12,19:38,CityC,Snow,Rural Road,Bus,1,Fatal,Street lights,60,Low
+A13,2024-01-13,6:49,CityC,Snow,Rural Road,Bus,2,Serious,Street lights,40,Low
+A14,2024-01-14,14:22,CityA,Cloudy,Rural Road,Bike,1,Fatal,Daylight,40,Low
+A15,2024-01-15,2:08,CityC,Snow,Rural Road,Bike,0,Fatal,Night,120,Low
+A16,2024-01-16,19:31,CityC,Rain,Highway,Bus,2,Minor,Street lights,40,Medium
+A17,2024-01-17,6:10,CityD,Cloudy,Rural Road,Car,1,Serious,Street lights,80,High
+A18,2024-01-18,15:08,CityA,Clear,Urban Road,Bus,0,Serious,Street lights,80,High
+A19,2024-01-19,13:07,CityA,Clear,Urban Road,Bike,4,Fatal,Street lights,100,Low
+A20,2024-01-20,0:44,CityB,Snow,Highway,Truck,4,Minor,Daylight,40,Medium
+A21,2024-01-21,8:50,CityD,Fog,Rural Road,Bus,5,Serious,Night,80,High
+A22,2024-01-22,15:40,CityC,Clear,Urban Road,Truck,0,Serious,Street lights,40,High
+A23,2024-01-23,2:58,CityD,Clear,Urban Road,Truck,2,Fatal,Night,100,High
+A24,2024-01-24,18:51,CityC,Fog,Urban Road,Truck,3,Fatal,Night,100,Medium
+A25,2024-01-25,15:52,CityC,Snow,Urban Road,Truck,5,Fatal,Daylight,40,Medium
+A26,2024-01-26,16:17,CityD,Rain,Highway,Car,1,Serious,Street lights,120,High
+A27,2024-01-27,6:03,CityC,Cloudy,Highway,Bike,2,Fatal,Street lights,100,Medium
+A28,2024-01-28,12:47,CityD,Rain,Highway,Car,3,Minor,Street lights,100,Medium
+A29,2024-01-29,11:53,CityB,Snow,Urban Road,Bike,5,Fatal,Street lights,40,Low
+A30,2024-01-30,19:09,CityC,Rain,Rural Road,Truck,0,Minor,Night,60,Medium
+A31,2024-01-31,8:57,CityD,Rain,Highway,Bus,4,Minor,Night,40,Medium
+A32,2024-02-01,19:30,CityC,Rain,Highway,Bike,3,Serious,Daylight,60,High
+A33,2024-02-02,6:25,CityC,Rain,Urban Road,Car,1,Minor,Street lights,80,Low
+A34,2024-02-03,17:17,CityA,Fog,Highway,Truck,1,Minor,Street lights,60,Low
+A35,2024-02-04,5:14,CityC,Snow,Rural Road,Bus,5,Minor,Daylight,40,Low
+A36,2024-02-05,16:20,CityD,Snow,Urban Road,Truck,3,Minor,Night,40,Medium
+A37,2024-02-06,20:23,CityB,Clear,Highway,Truck,2,Minor,Daylight,100,High
+A38,2024-02-07,17:01,CityD,Clear,Highway,Bus,5,Serious,Street lights,40,Low
+A39,2024-02-08,11:42,CityD,Fog,Highway,Car,3,Minor,Daylight,100,Medium
+A40,2024-02-09,5:44,CityB,Snow,Rural Road,Truck,3,Fatal,Daylight,80,Low
+A41,2024-02-10,19:55,CityA,Snow,Highway,Truck,3,Serious,Night,100,Low
+A42,2024-02-11,7:04,CityB,Snow,Highway,Truck,2,Serious,Street lights,80,High
+A43,2024-02-12,8:42,CityC,Fog,Highway,Bus,2,Fatal,Daylight,60,Low
+A44,2024-02-13,20:41,CityD,Rain,Highway,Bus,2,Minor,Daylight,100,High
+A45,2024-02-14,14:17,CityA,Snow,Urban Road,Truck,3,Fatal,Daylight,40,Medium
+A46,2024-02-15,0:20,CityA,Clear,Rural Road,Bus,1,Serious,Street lights,60,High
+A47,2024-02-16,21:29,CityB,Fog,Highway,Bike,2,Minor,Night,120,Medium
+A48,2024-02-17,16:18,CityC,Clear,Urban Road,Bus,0,Minor,Daylight,100,Medium
+A49,2024-02-18,0:36,CityC,Cloudy,Rural Road,Truck,1,Fatal,Night,40,Medium
+A50,2024-02-19,4:29,CityA,Rain,Rural Road,Truck,3,Minor,Night,120,High
+A51,2024-02-20,17:59,CityC,Fog,Rural Road,Car,0,Serious,Street lights,80,Medium
+A52,2024-02-21,21:47,CityA,Snow,Rural Road,Bike,2,Fatal,Street lights,100,Medium
+A53,2024-02-22,20:08,CityC,Cloudy,Rural Road,Truck,3,Fatal,Street lights,100,Low
+A54,2024-02-23,1:16,CityA,Rain,Rural Road,Bus,1,Minor,Daylight,60,Medium
+A55,2024-02-24,21:04,CityA,Fog,Highway,Bike,1,Minor,Daylight,80,High
+A56,2024-02-25,6:50,CityA,Snow,Urban Road,Bike,4,Serious,Street lights,100,Low
+A57,2024-02-26,10:05,CityD,Cloudy,Highway,Car,1,Minor,Street lights,60,Medium
+A58,2024-02-27,13:25,CityD,Cloudy,Highway,Car,4,Serious,Street lights,100,High
+A59,2024-02-28,9:42,CityD,Fog,Rural Road,Bike,0,Minor,Street lights,80,Medium
+A60,2024-02-29,10:14,CityA,Snow,Highway,Bike,2,Minor,Night,60,Medium
+A61,2024-03-01,9:51,CityC,Rain,Highway,Truck,3,Minor,Night,120,Low
+A62,2024-03-02,4:31,CityB,Clear,Highway,Truck,1,Serious,Street lights,80,Low
+A63,2024-03-03,7:24,CityC,Fog,Highway,Car,4,Fatal,Street lights,100,High
+A64,2024-03-04,14:43,CityB,Fog,Highway,Bus,3,Minor,Street lights,100,Medium
+A65,2024-03-05,0:02,CityB,Snow,Rural Road,Truck,3,Fatal,Street lights,40,Medium
+A66,2024-03-06,8:08,CityB,Fog,Urban Road,Bus,0,Serious,Daylight,60,Low
+A67,2024-03-07,19:31,CityC,Rain,Urban Road,Bus,0,Fatal,Daylight,40,Low
+A68,2024-03-08,6:10,CityA,Snow,Urban Road,Bus,0,Serious,Night,40,Low
+A69,2024-03-09,22:03,CityC,Snow,Highway,Bus,1,Fatal,Daylight,60,High
+A70,2024-03-10,14:00,CityA,Fog,Rural Road,Bus,4,Serious,Night,80,Medium
+A71,2024-03-11,5:29,CityD,Cloudy,Highway,Car,5,Serious,Night,40,High
+A72,2024-03-12,22:07,CityD,Clear,Urban Road,Bus,2,Fatal,Daylight,80,High
+A73,2024-03-13,13:54,CityD,Snow,Urban Road,Bike,0,Serious,Night,120,Medium
+A74,2024-03-14,15:52,CityC,Fog,Rural Road,Bus,2,Fatal,Night,80,High
+A75,2024-03-15,19:07,CityD,Cloudy,Rural Road,Car,1,Fatal,Night,80,High
+A76,2024-03-16,2:06,CityC,Clear,Rural Road,Truck,2,Serious,Street lights,40,Low
+A77,2024-03-17,16:52,CityD,Cloudy,Rural Road,Bus,3,Minor,Daylight,40,Medium
+A78,2024-03-18,20:08,CityA,Clear,Highway,Bike,3,Minor,Street lights,120,Medium
+A79,2024-03-19,4:16,CityB,Cloudy,Urban Road,Bus,1,Fatal,Night,100,High
+A80,2024-03-20,3:34,CityA,Clear,Highway,Car,1,Serious,Street lights,60,Low
+A81,2024-03-21,8:53,CityA,Snow,Rural Road,Car,0,Minor,Daylight,40,Medium
+A82,2024-03-22,22:25,CityA,Rain,Highway,Truck,0,Fatal,Daylight,100,Low
+A83,2024-03-23,4:46,CityD,Fog,Urban Road,Bus,4,Minor,Street lights,100,Medium
+A84,2024-03-24,12:44,CityC,Fog,Highway,Car,2,Fatal,Street lights,100,Medium
+A85,2024-03-25,13:03,CityD,Cloudy,Highway,Bike,3,Fatal,Night,80,High
+A86,2024-03-26,22:42,CityA,Cloudy,Urban Road,Bus,2,Serious,Night,40,Low
+A87,2024-03-27,9:49,CityD,Cloudy,Highway,Car,5,Fatal,Street lights,100,High
+A88,2024-03-28,19:47,CityC,Fog,Highway,Truck,0,Fatal,Daylight,100,Medium
+A89,2024-03-29,18:30,CityB,Clear,Rural Road,Bus,4,Fatal,Street lights,80,Low
+A90,2024-03-30,12:55,CityB,Rain,Urban Road,Car,2,Serious,Night,40,High
+A91,2024-03-31,16:14,CityA,Fog,Urban Road,Truck,5,Fatal,Street lights,80,Medium
+A92,2024-04-01,5:38,CityB,Fog,Urban Road,Truck,0,Minor,Night,100,Medium
+A93,2024-04-02,9:04,CityB,Fog,Rural Road,Truck,5,Fatal,Night,100,Low
+A94,2024-04-03,20:40,CityB,Snow,Highway,Bike,2,Serious,Night,120,Low
+A95,2024-04-04,5:07,CityB,Rain,Highway,Truck,4,Minor,Daylight,120,Medium
+A96,2024-04-05,11:40,CityA,Fog,Urban Road,Car,1,Fatal,Night,40,Low
+A97,2024-04-06,13:24,CityC,Rain,Rural Road,Bike,1,Minor,Daylight,40,Low
+A98,2024-04-07,9:51,CityD,Snow,Rural Road,Car,4,Fatal,Daylight,80,Medium
+A99,2024-04-08,3:56,CityA,Snow,Highway,Car,4,Fatal,Daylight,40,Low
+A100,2024-04-09,2:10,CityA,Fog,Highway,Car,4,Minor,Night,80,High
+A101,2024-04-10,9:03,CityD,Rain,Highway,Bike,5,Fatal,Night,40,High
+A102,2024-04-11,8:08,CityA,Fog,Urban Road,Truck,3,Fatal,Street lights,100,Medium
+A103,2024-04-12,23:53,CityB,Snow,Rural Road,Truck,1,Fatal,Street lights,100,High
+A104,2024-04-13,17:12,CityD,Rain,Highway,Car,0,Serious,Night,120,Medium
+A105,2024-04-14,18:44,CityC,Clear,Highway,Truck,4,Fatal,Daylight,120,High
+A106,2024-04-15,14:26,CityD,Snow,Highway,Bike,3,Minor,Daylight,80,Medium
+A107,2024-04-16,10:12,CityB,Fog,Highway,Bus,2,Fatal,Street lights,80,Medium
+A108,2024-04-17,0:41,CityD,Fog,Rural Road,Truck,5,Serious,Street lights,120,Medium
+A109,2024-04-18,5:01,CityA,Fog,Rural Road,Truck,0,Fatal,Daylight,60,High
+A110,2024-04-19,19:45,CityA,Cloudy,Urban Road,Car,5,Serious,Daylight,80,High
+A111,2024-04-20,2:51,CityD,Cloudy,Urban Road,Bike,0,Fatal,Daylight,80,High
+A112,2024-04-21,23:27,CityD,Clear,Highway,Truck,2,Minor,Night,60,Medium
+A113,2024-04-22,8:05,CityC,Fog,Urban Road,Car,5,Serious,Night,120,Low
+A114,2024-04-23,5:34,CityB,Cloudy,Highway,Car,1,Serious,Daylight,120,High
+A115,2024-04-24,17:04,CityC,Cloudy,Rural Road,Car,1,Minor,Daylight,80,Low
+A116,2024-04-25,2:09,CityC,Snow,Rural Road,Bus,3,Fatal,Night,60,Medium
+A117,2024-04-26,15:02,CityB,Cloudy,Rural Road,Car,2,Fatal,Daylight,120,Medium
+A118,2024-04-27,9:08,CityA,Rain,Highway,Bus,1,Serious,Street lights,80,Low
+A119,2024-04-28,7:25,CityD,Rain,Highway,Bus,0,Minor,Street lights,60,Low
+A120,2024-04-29,0:03,CityD,Clear,Rural Road,Truck,0,Fatal,Street lights,40,Medium
+A121,2024-04-30,23:25,CityD,Snow,Rural Road,Bus,4,Serious,Night,120,Low
+A122,2024-05-01,18:13,CityA,Rain,Urban Road,Truck,5,Fatal,Daylight,60,High
+A123,2024-05-02,10:59,CityD,Rain,Rural Road,Bike,2,Serious,Daylight,100,Low
+A124,2024-05-03,17:50,CityA,Rain,Highway,Car,2,Serious,Street lights,40,High
+A125,2024-05-04,10:53,CityC,Rain,Urban Road,Bus,1,Serious,Street lights,120,Medium
+A126,2024-05-05,17:55,CityA,Snow,Highway,Truck,2,Serious,Daylight,40,Low
+A127,2024-05-06,13:57,CityB,Snow,Urban Road,Bike,0,Serious,Night,100,High
+A128,2024-05-07,6:20,CityB,Snow,Urban Road,Truck,1,Serious,Night,100,Medium
+A129,2024-05-08,5:01,CityC,Snow,Urban Road,Car,0,Minor,Street lights,40,Low
+A130,2024-05-09,16:17,CityB,Clear,Highway,Truck,4,Fatal,Night,40,Medium
+A131,2024-05-10,8:30,CityC,Cloudy,Rural Road,Car,1,Minor,Daylight,100,Medium
+A132,2024-05-11,15:44,CityB,Cloudy,Highway,Bus,3,Serious,Night,40,High
+A133,2024-05-12,7:49,CityD,Snow,Rural Road,Truck,2,Serious,Street lights,120,High
+A134,2024-05-13,21:08,CityC,Snow,Highway,Bus,0,Fatal,Street lights,40,Medium
+A135,2024-05-14,10:12,CityA,Clear,Rural Road,Bus,5,Fatal,Daylight,120,High
+A136,2024-05-15,3:16,CityA,Fog,Urban Road,Bus,4,Fatal,Street lights,60,Low
+A137,2024-05-16,3:28,CityC,Clear,Highway,Truck,1,Minor,Night,120,Medium
+A138,2024-05-17,12:01,CityB,Fog,Rural Road,Truck,3,Fatal,Daylight,80,High
+A139,2024-05-18,19:55,CityC,Clear,Rural Road,Bike,5,Fatal,Street lights,60,Medium
+A140,2024-05-19,14:11,CityB,Snow,Urban Road,Car,1,Minor,Night,100,Low
+A141,2024-05-20,9:56,CityC,Clear,Highway,Bus,2,Fatal,Night,60,Medium
+A142,2024-05-21,4:59,CityB,Clear,Urban Road,Bike,4,Fatal,Night,40,Low
+A143,2024-05-22,15:27,CityA,Clear,Highway,Bike,1,Minor,Daylight,100,Low
+A144,2024-05-23,23:19,CityD,Fog,Highway,Bus,0,Minor,Night,80,Medium
+A145,2024-05-24,11:01,CityB,Clear,Rural Road,Bike,3,Fatal,Daylight,120,Low
+A146,2024-05-25,9:26,CityC,Rain,Rural Road,Car,4,Serious,Street lights,60,Medium
+A147,2024-05-26,0:50,CityB,Clear,Highway,Bus,5,Serious,Daylight,40,Medium
+A148,2024-05-27,8:30,CityD,Snow,Highway,Bike,0,Fatal,Daylight,80,Medium
+A149,2024-05-28,23:21,CityD,Cloudy,Urban Road,Bike,4,Minor,Daylight,80,Low
+A150,2024-05-29,7:42,CityD,Cloudy,Highway,Bike,1,Minor,Night,40,Medium
+A151,2024-05-30,15:18,CityA,Cloudy,Urban Road,Bus,1,Minor,Night,40,Low
+A152,2024-05-31,7:14,CityB,Rain,Urban Road,Truck,5,Fatal,Night,40,Medium
+A153,2024-06-01,16:49,CityC,Cloudy,Highway,Bus,2,Minor,Street lights,100,Low
+A154,2024-06-02,2:41,CityA,Clear,Rural Road,Truck,3,Fatal,Street lights,80,Medium
+A155,2024-06-03,6:34,CityA,Snow,Rural Road,Bike,3,Serious,Daylight,120,Medium
+A156,2024-06-04,9:21,CityA,Cloudy,Highway,Car,5,Serious,Street lights,80,Medium
+A157,2024-06-05,7:11,CityA,Snow,Highway,Bus,1,Serious,Daylight,120,High
+A158,2024-06-06,5:12,CityD,Cloudy,Urban Road,Truck,0,Minor,Street lights,60,Low
+A159,2024-06-07,3:49,CityB,Cloudy,Highway,Bus,2,Serious,Daylight,100,Medium
+A160,2024-06-08,17:36,CityB,Rain,Highway,Bus,0,Fatal,Night,100,Low
+A161,2024-06-09,14:46,CityA,Rain,Highway,Truck,0,Minor,Daylight,40,High
+A162,2024-06-10,0:53,CityC,Snow,Urban Road,Car,3,Serious,Night,100,Low
+A163,2024-06-11,12:58,CityC,Fog,Urban Road,Car,5,Minor,Night,80,Low
+A164,2024-06-12,12:41,CityD,Clear,Urban Road,Bike,0,Serious,Night,40,Medium
+A165,2024-06-13,14:51,CityC,Fog,Rural Road,Truck,4,Serious,Street lights,120,High
+A166,2024-06-14,22:56,CityA,Fog,Highway,Truck,4,Fatal,Street lights,60,Medium
+A167,2024-06-15,15:07,CityD,Snow,Highway,Truck,5,Fatal,Street lights,100,High
+A168,2024-06-16,14:56,CityB,Snow,Highway,Bike,5,Fatal,Night,40,Low
+A169,2024-06-17,2:56,CityB,Rain,Rural Road,Car,3,Minor,Street lights,80,Low
+A170,2024-06-18,17:57,CityC,Cloudy,Urban Road,Bike,0,Minor,Night,80,High
+A171,2024-06-19,4:51,CityA,Fog,Urban Road,Bus,2,Minor,Street lights,60,Low
+A172,2024-06-20,20:41,CityB,Cloudy,Rural Road,Car,4,Minor,Night,100,Low
+A173,2024-06-21,23:24,CityA,Fog,Rural Road,Car,1,Fatal,Daylight,40,High
+A174,2024-06-22,3:45,CityD,Fog,Rural Road,Bike,3,Fatal,Daylight,120,Medium
+A175,2024-06-23,3:26,CityB,Cloudy,Urban Road,Bus,1,Fatal,Daylight,40,High
+A176,2024-06-24,15:25,CityC,Rain,Rural Road,Car,4,Fatal,Daylight,120,Medium
+A177,2024-06-25,17:06,CityB,Fog,Rural Road,Car,0,Serious,Street lights,120,Low
+A178,2024-06-26,1:25,CityD,Clear,Urban Road,Truck,2,Fatal,Night,80,High
+A179,2024-06-27,9:13,CityB,Rain,Urban Road,Bus,0,Fatal,Night,40,Low
+A180,2024-06-28,7:30,CityA,Clear,Highway,Bus,1,Minor,Street lights,40,Low
+A181,2024-06-29,4:32,CityA,Clear,Highway,Car,4,Minor,Street lights,100,High
+A182,2024-06-30,21:19,CityC,Snow,Highway,Truck,5,Serious,Street lights,60,High
+A183,2024-07-01,18:47,CityD,Snow,Urban Road,Car,5,Fatal,Night,60,High
+A184,2024-07-02,1:53,CityC,Fog,Urban Road,Bike,3,Serious,Daylight,80,High
+A185,2024-07-03,8:27,CityA,Snow,Highway,Bike,3,Fatal,Street lights,80,Medium
+A186,2024-07-04,20:54,CityD,Snow,Rural Road,Bike,4,Fatal,Street lights,80,Low
+A187,2024-07-05,20:37,CityA,Clear,Rural Road,Bike,3,Minor,Night,40,Low
+A188,2024-07-06,4:35,CityA,Snow,Urban Road,Car,4,Minor,Night,80,Low
+A189,2024-07-07,18:14,CityB,Fog,Rural Road,Bike,0,Fatal,Street lights,40,Low
+A190,2024-07-08,2:43,CityA,Clear,Highway,Truck,4,Fatal,Daylight,100,High
+A191,2024-07-09,12:12,CityC,Cloudy,Rural Road,Truck,4,Serious,Daylight,120,Medium
+A192,2024-07-10,4:50,CityD,Rain,Urban Road,Bus,5,Serious,Night,40,Low
+A193,2024-07-11,7:38,CityB,Rain,Urban Road,Bus,0,Fatal,Street lights,100,Low
+A194,2024-07-12,20:23,CityA,Clear,Highway,Bus,0,Fatal,Daylight,60,High
+A195,2024-07-13,9:46,CityD,Cloudy,Highway,Truck,1,Fatal,Street lights,40,High
+A196,2024-07-14,2:46,CityB,Fog,Highway,Bike,2,Minor,Daylight,120,Medium
+A197,2024-07-15,7:05,CityB,Cloudy,Rural Road,Bus,2,Serious,Street lights,100,Medium
+A198,2024-07-16,5:13,CityC,Fog,Rural Road,Car,0,Fatal,Night,100,High
+A199,2024-07-17,17:28,CityC,Fog,Highway,Truck,3,Fatal,Daylight,100,Low
+A200,2024-07-18,1:15,CityA,Clear,Urban Road,Bike,5,Fatal,Night,80,Low
+A201,2024-07-19,16:21,CityD,Fog,Urban Road,Bus,0,Minor,Night,80,Low
+A202,2024-07-20,7:58,CityD,Fog,Highway,Truck,5,Minor,Night,100,High
+A203,2024-07-21,2:47,CityB,Rain,Rural Road,Bike,3,Fatal,Night,120,Medium
+A204,2024-07-22,2:18,CityA,Snow,Urban Road,Truck,0,Minor,Street lights,100,High
+A205,2024-07-23,14:18,CityA,Rain,Rural Road,Bike,5,Fatal,Street lights,120,High
+A206,2024-07-24,16:51,CityA,Fog,Highway,Bike,3,Fatal,Daylight,60,High
+A207,2024-07-25,9:59,CityD,Cloudy,Highway,Truck,1,Fatal,Street lights,60,Medium
+A208,2024-07-26,15:16,CityD,Fog,Highway,Truck,3,Serious,Daylight,80,Low
+A209,2024-07-27,11:15,CityA,Clear,Highway,Bus,4,Serious,Daylight,100,Medium
+A210,2024-07-28,8:41,CityD,Snow,Rural Road,Bus,4,Fatal,Night,100,Low
+A211,2024-07-29,16:42,CityD,Snow,Urban Road,Bike,0,Fatal,Night,60,Low
+A212,2024-07-30,2:27,CityA,Rain,Urban Road,Truck,2,Serious,Street lights,40,High
+A213,2024-07-31,6:03,CityC,Fog,Rural Road,Bike,4,Minor,Night,120,High
+A214,2024-08-01,15:38,CityA,Clear,Rural Road,Bus,5,Serious,Daylight,80,Medium
+A215,2024-08-02,16:24,CityC,Rain,Rural Road,Car,1,Serious,Daylight,40,Low
+A216,2024-08-03,0:58,CityD,Fog,Highway,Car,3,Fatal,Night,100,High
+A217,2024-08-04,5:30,CityA,Cloudy,Highway,Bike,2,Fatal,Night,100,High
+A218,2024-08-05,20:44,CityB,Snow,Rural Road,Bus,1,Serious,Street lights,60,Medium
+A219,2024-08-06,11:24,CityD,Fog,Highway,Bus,4,Fatal,Night,60,High
+A220,2024-08-07,12:35,CityB,Cloudy,Urban Road,Truck,1,Fatal,Street lights,100,Medium
+A221,2024-08-08,19:13,CityC,Clear,Rural Road,Truck,2,Minor,Street lights,40,Low
+A222,2024-08-09,8:27,CityD,Fog,Rural Road,Truck,2,Minor,Night,120,High
+A223,2024-08-10,18:27,CityC,Snow,Highway,Truck,1,Fatal,Daylight,60,Medium
+A224,2024-08-11,6:08,CityA,Clear,Rural Road,Bike,2,Serious,Night,40,Medium
+A225,2024-08-12,9:27,CityA,Cloudy,Urban Road,Bike,4,Fatal,Street lights,100,Medium
+A226,2024-08-13,10:15,CityC,Cloudy,Urban Road,Truck,1,Serious,Night,40,Medium
+A227,2024-08-14,4:10,CityB,Cloudy,Rural Road,Bike,3,Minor,Street lights,60,Medium
+A228,2024-08-15,2:52,CityC,Fog,Rural Road,Car,1,Fatal,Night,120,High
+A229,2024-08-16,4:57,CityC,Snow,Highway,Car,2,Fatal,Street lights,60,Medium
+A230,2024-08-17,9:12,CityB,Fog,Urban Road,Bus,5,Fatal,Street lights,60,Medium
+A231,2024-08-18,17:22,CityB,Snow,Highway,Car,2,Fatal,Street lights,60,High
+A232,2024-08-19,20:32,CityA,Snow,Rural Road,Bus,1,Minor,Night,120,Medium
+A233,2024-08-20,23:39,CityC,Fog,Urban Road,Car,4,Serious,Daylight,120,Low
+A234,2024-08-21,6:45,CityD,Clear,Urban Road,Car,0,Fatal,Night,120,Medium
+A235,2024-08-22,19:08,CityC,Fog,Urban Road,Bus,4,Minor,Night,40,Low
+A236,2024-08-23,2:00,CityB,Clear,Highway,Truck,1,Fatal,Night,40,High
+A237,2024-08-24,16:27,CityA,Fog,Urban Road,Car,1,Fatal,Street lights,120,Low
+A238,2024-08-25,8:24,CityA,Cloudy,Rural Road,Bus,3,Fatal,Daylight,60,Low
+A239,2024-08-26,2:22,CityD,Clear,Highway,Truck,2,Fatal,Street lights,40,Medium
+A240,2024-08-27,3:19,CityB,Fog,Rural Road,Bus,5,Serious,Night,60,Low
+A241,2024-08-28,10:15,CityA,Snow,Rural Road,Car,4,Minor,Night,100,High
+A242,2024-08-29,2:46,CityC,Clear,Rural Road,Bike,0,Serious,Night,60,Medium
+A243,2024-08-30,20:51,CityC,Snow,Highway,Bike,0,Serious,Street lights,80,Low
+A244,2024-08-31,5:25,CityB,Snow,Urban Road,Bike,0,Minor,Street lights,120,Low
+A245,2024-09-01,6:16,CityB,Snow,Highway,Car,3,Fatal,Street lights,100,High
+A246,2024-09-02,20:11,CityA,Clear,Highway,Car,5,Fatal,Daylight,120,Medium
+A247,2024-09-03,18:28,CityD,Clear,Highway,Bus,0,Minor,Daylight,40,High
+A248,2024-09-04,7:39,CityD,Snow,Rural Road,Truck,2,Serious,Night,100,Low
+A249,2024-09-05,9:46,CityA,Clear,Highway,Bike,0,Fatal,Daylight,60,High
+A250,2024-09-06,20:12,CityA,Rain,Rural Road,Bus,5,Minor,Daylight,40,High
+A251,2024-09-07,17:13,CityD,Cloudy,Rural Road,Bus,1,Serious,Street lights,40,High
+A252,2024-09-08,7:39,CityD,Clear,Highway,Bus,5,Minor,Street lights,40,High
+A253,2024-09-09,5:02,CityA,Clear,Urban Road,Bike,2,Minor,Daylight,80,Medium
+A254,2024-09-10,21:41,CityD,Snow,Urban Road,Car,4,Minor,Street lights,120,Medium
+A255,2024-09-11,5:29,CityC,Rain,Urban Road,Bus,1,Serious,Night,80,High
+A256,2024-09-12,15:19,CityB,Snow,Urban Road,Bus,4,Minor,Street lights,40,Medium
+A257,2024-09-13,19:27,CityC,Fog,Rural Road,Bus,5,Minor,Street lights,100,High
+A258,2024-09-14,8:36,CityD,Rain,Urban Road,Bus,4,Serious,Daylight,120,High
+A259,2024-09-15,10:39,CityB,Cloudy,Urban Road,Car,4,Serious,Street lights,80,Medium
+A260,2024-09-16,23:37,CityA,Fog,Urban Road,Truck,4,Fatal,Night,100,High
+A261,2024-09-17,5:27,CityA,Clear,Rural Road,Bike,4,Minor,Daylight,120,High
+A262,2024-09-18,5:11,CityC,Rain,Highway,Bus,3,Fatal,Street lights,80,High
+A263,2024-09-19,11:39,CityC,Snow,Highway,Truck,4,Minor,Night,80,High
+A264,2024-09-20,14:43,CityA,Snow,Rural Road,Truck,5,Fatal,Daylight,40,Medium
+A265,2024-09-21,18:08,CityC,Fog,Urban Road,Car,0,Minor,Night,100,High
+A266,2024-09-22,9:55,CityC,Fog,Highway,Truck,4,Minor,Daylight,120,Low
+A267,2024-09-23,19:08,CityC,Clear,Rural Road,Car,1,Minor,Daylight,120,Medium
+A268,2024-09-24,8:28,CityD,Snow,Urban Road,Truck,2,Minor,Daylight,100,Medium
+A269,2024-09-25,11:01,CityD,Cloudy,Rural Road,Bus,5,Serious,Daylight,40,High
+A270,2024-09-26,17:25,CityD,Rain,Highway,Car,4,Serious,Street lights,40,High
+A271,2024-09-27,19:29,CityC,Clear,Rural Road,Truck,2,Fatal,Daylight,60,Low
+A272,2024-09-28,16:38,CityB,Rain,Urban Road,Truck,3,Serious,Daylight,60,Low
+A273,2024-09-29,22:01,CityD,Rain,Urban Road,Car,0,Serious,Street lights,120,High
+A274,2024-09-30,1:45,CityB,Fog,Highway,Bike,3,Minor,Street lights,80,Low
+A275,2024-10-01,23:09,CityB,Rain,Urban Road,Bike,2,Minor,Night,100,Medium
+A276,2024-10-02,17:19,CityB,Fog,Rural Road,Bike,2,Fatal,Night,40,Low
+A277,2024-10-03,12:53,CityC,Snow,Urban Road,Car,4,Fatal,Street lights,60,High
+A278,2024-10-04,7:29,CityB,Clear,Urban Road,Bike,5,Fatal,Night,80,Low
+A279,2024-10-05,14:16,CityD,Clear,Highway,Bike,5,Serious,Daylight,40,Medium
+A280,2024-10-06,15:32,CityA,Rain,Highway,Bike,3,Minor,Street lights,120,High
+A281,2024-10-07,12:45,CityB,Cloudy,Highway,Car,5,Serious,Street lights,80,Low
+A282,2024-10-08,7:54,CityA,Clear,Urban Road,Car,3,Serious,Street lights,40,Medium
+A283,2024-10-09,4:05,CityD,Fog,Rural Road,Truck,2,Serious,Daylight,60,Low
+A284,2024-10-10,13:56,CityC,Fog,Urban Road,Bus,5,Minor,Street lights,120,Medium
+A285,2024-10-11,19:32,CityD,Clear,Rural Road,Bus,3,Minor,Night,40,High
+A286,2024-10-12,2:59,CityB,Fog,Highway,Bus,1,Minor,Street lights,60,High
+A287,2024-10-13,14:17,CityD,Rain,Rural Road,Car,4,Fatal,Night,60,Medium
+A288,2024-10-14,23:39,CityB,Clear,Rural Road,Bus,1,Minor,Street lights,80,Medium
+A289,2024-10-15,8:04,CityD,Cloudy,Rural Road,Bike,3,Fatal,Daylight,100,Low
+A290,2024-10-16,2:04,CityD,Snow,Highway,Bike,4,Fatal,Street lights,60,Low
+A291,2024-10-17,22:44,CityA,Fog,Highway,Bus,2,Minor,Street lights,60,Low
+A292,2024-10-18,20:46,CityC,Snow,Rural Road,Bus,3,Fatal,Daylight,120,Low
+A293,2024-10-19,5:57,CityC,Rain,Rural Road,Bike,2,Serious,Night,120,Medium
+A294,2024-10-20,18:48,CityC,Clear,Rural Road,Truck,1,Serious,Daylight,120,Low
+A295,2024-10-21,16:52,CityB,Snow,Highway,Car,3,Minor,Daylight,100,Low
+A296,2024-10-22,5:43,CityB,Clear,Highway,Bus,0,Serious,Daylight,80,Medium
+A297,2024-10-23,4:35,CityD,Cloudy,Highway,Truck,4,Minor,Street lights,40,Low
+A298,2024-10-24,23:32,CityA,Fog,Highway,Truck,2,Minor,Daylight,100,Low
+A299,2024-10-25,7:57,CityC,Snow,Rural Road,Bus,4,Minor,Street lights,40,Low
+A300,2024-10-26,9:11,CityB,Clear,Urban Road,Bus,0,Serious,Night,40,Low
